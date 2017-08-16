@@ -1,5 +1,3 @@
-VTTmanager is a tool for download VTT subtitles from WebSites.
-
 # VTTmanager
 VTTmanager is a tool for download VTT subtitles from WebSites
 
